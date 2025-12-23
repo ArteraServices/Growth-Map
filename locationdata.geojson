@@ -322,7 +322,8 @@
   "email": "Jim.Wilson@millerpipeline.com",
   "state": "Indiana",
   "popup": "<b>Company:</b> Miller Pipeline<br><b>Union:</b> Union<br><b>Contact:</b> Jim Wilson<br><b>Email:</b> <a href='mailto:Jim.Wilson@millerpipeline.com'>Jim.Wilson@millerpipeline.com</a><br><b>Phone:</b> 614-554-2120<br><b>State:</b> Indiana"
-}
+       ]
+      },
       "type": "Feature",
       "geometry": {
         "type": "Point",
