@@ -306,24 +306,25 @@
       }
     },
     {
-"type": "Feature",
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -86.2583, 
-          39.8494
+         39.8494
        ]
       },
-"properties": {
-  "company": "Miller Pipeline",
-  "union": "Union",
-  "contact": "Jim Wilson",
-  "phone": "614-554-2120",
-  "email": "Jim.Wilson@millerpipeline.com",
-  "state": "Indiana",
-  "popup": "<b>Company:</b> Miller Pipeline<br><b>Union:</b> Union<br><b>Contact:</b> Jim Wilson<br><b>Email:</b> <a href='mailto:Jim.Wilson@millerpipeline.com'>Jim.Wilson@millerpipeline.com</a><br><b>Phone:</b> 614-554-2120<br><b>State:</b> Indiana"
-       ]
-      },
+      "properties": {
+        "company": "Miller Pipeline",
+        "union": "Union",
+        "contact": "Jim Wilson",
+        "phone": "614-554-2120",
+        "email": "Jim.Wilson@millerpipeline.com",
+        "state": "Indiana",
+        "popup": "<b>Company:</b> Miller Pipeline<br><b>Union:</b> Union<br><b>Contact:</b> Jim Wilson<br><b>Email:</b> <a href='mailto:Jim.Wilson@millerpipeline.com'>Jim.Wilson@millerpipeline.com</a><br><b>Phone:</b> 614-554-2120<br><b>State:</b> Indiana"
+      }
+    },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
